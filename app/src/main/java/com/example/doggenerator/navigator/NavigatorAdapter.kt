@@ -1,4 +1,4 @@
-package com.example.doggenerator
+package com.example.doggenerator.navigator
 
 import androidx.navigation.NavController
 

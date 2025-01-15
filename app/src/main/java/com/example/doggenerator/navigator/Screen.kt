@@ -1,4 +1,4 @@
-package com.example.doggenerator
+package com.example.doggenerator.navigator
 
 sealed class Screen(val route: String) {
     object Home : Screen("home")

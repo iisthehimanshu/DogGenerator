@@ -6,6 +6,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.doggenerator.navigator.NavigatorAdapter
 import com.example.doggenerator.screens.GenerateDogsScreen
 import com.example.doggenerator.screens.HomeScreen
 import com.example.doggenerator.screens.RecentDogsScreen

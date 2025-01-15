@@ -14,7 +14,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.rememberAsyncImagePainter
-import com.example.doggenerator.NavigatorAdapter
+import com.example.doggenerator.navigator.NavigatorAdapter
 import com.example.doggenerator.viewFactory.DogViewModelFactory
 import com.example.doggenerator.viewmodel.DogViewModel
 
